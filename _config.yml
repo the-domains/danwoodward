@@ -1,7 +1,7 @@
 name: danwoodward
 favicon: null
-layout_spectrum: 0.45932444580830634
-typography_spectrum: 0.42256407672539353
+layout_spectrum: 1
+typography_spectrum: 0.5297
 cta:
   domain: null
   bucket: null
